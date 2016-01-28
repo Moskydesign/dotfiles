@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/wouter/Projects/heroca/web/fg_impression/.git'
+let g:netrw_dirhist_2='/home/wouter'
+let g:netrw_dirhist_3='/home/wouter/Projects/carolus/web/carolus/.git'
